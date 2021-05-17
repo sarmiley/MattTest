@@ -16,7 +16,7 @@
     "selenium_test": "mocha test/selenium_test/loginSuccess.js && mocha test/selenium_test/loginFail.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mocha": "^7.2.0",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "should": "^13.2.3",
